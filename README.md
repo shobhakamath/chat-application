@@ -1,2 +1,4 @@
 # chat-application
-Simple Chat application 
+
+Simple Chat application
+Bonjour madame!
